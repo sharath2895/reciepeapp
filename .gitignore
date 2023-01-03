@@ -376,7 +376,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+/djangovenv
 # mypy
 .mypy_cache/
 .dmypy.json
